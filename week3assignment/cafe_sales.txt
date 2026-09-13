@@ -1,0 +1,10 @@
+Aarav,Male,Popcorn,Snacks,450
+Sita,Female,Coffee,Drinks,300
+Nischal,Male,Burger,Food,750
+Prakriti,Female,Nachos,Snacks,550
+Rohan,Male,Pizza,Food,900
+Anisha,Female,Cold Coffee,Drinks,400
+Bibek,Male,Popcorn,Snacks,350
+Sneha,Female,Burger,Food,700
+
+Ameha,Female,Burger,Food,900.0
