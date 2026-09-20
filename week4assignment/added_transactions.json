@@ -1,0 +1,16 @@
+[
+    {
+        "Transaction_ID": "NP00051",
+        "Date": "2026-09-18",
+        "City": "Kathmandu",
+        "Customer_Gender": "Female",
+        "Customer_Age": 23,
+        "Product_Category": "Groceries",
+        "Product_Name": "Lentils",
+        "Quantity": 2,
+        "Unit_Price_NPR": 120.0,
+        "Payment_Method": "esewa",
+        "Sales_NPR": 240.0,
+        "Customer_Type": "Returning"
+    }
+]

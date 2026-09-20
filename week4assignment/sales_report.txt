@@ -1,0 +1,19 @@
+========================================
+          SALES ANALYSIS REPORT
+========================================
+Total Sales: NPR 150028.00
+Average Sales: NPR 2885.15
+Total Male Customers: 24
+Total Female Customers: 28
+Most Popular Product Category: Groceries
+Number of Transactions in Groceries: 13
+
+Transactions per Product Category:
+Home & Kitchen: 8
+Electronics: 9
+Clothing: 8
+Beauty & Personal Care: 10
+Books & Stationery: 2
+Groceries: 13
+Sports & Fitness: 2
+========================================
